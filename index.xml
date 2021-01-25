@@ -25,5 +25,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>https://mauricioamendola.github.io/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricioamendola.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mauricioamendola.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricioamendola.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
   </channel>
 </rss>
