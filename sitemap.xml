@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mauricioamendola.github.io/tags/intro/</loc>
+    <lastmod>2021-01-28T00:13:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauricioamendola.github.io/tags/misc/</loc>
+    <lastmod>2021-01-28T00:13:54-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mauricioamendola.github.io/post/</loc>
     <lastmod>2021-01-28T00:13:54-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://mauricioamendola.github.io/post/que_es_esto/</loc>
+    <lastmod>2021-01-28T00:13:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauricioamendola.github.io/tags/</loc>
     <lastmod>2021-01-28T00:13:54-03:00</lastmod>
   </url>
   
@@ -29,10 +44,6 @@
   
   <url>
     <loc>https://mauricioamendola.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mauricioamendola.github.io/tags/</loc>
   </url>
   
 </urlset>
